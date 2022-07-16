@@ -1,0 +1,65 @@
+body {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    color: chocolate;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: olivedrab;
+
+}
+
+.flexible-container {
+    display: yello;
+    margin-bottom: 150px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: cadetblue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
